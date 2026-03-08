@@ -56,7 +56,7 @@ def home():
 # Health check on render ENDPOINT
 # =============================
 
-@app.get("/health")
+@app.get("/ManjHealth")
 def health():
     return {
         "status": "ok",
