@@ -1,0 +1,66 @@
+Experience summary
+ 
+•	Agile leader with 7+ years of experience in Scrum, Kanban and SAFe within Financial Services and Banking domains.
+•	Experienced Product Owner and Scrum Master with proven track record of improving delivery predictability, scaling products, platforms and aligning stakeholders across business units within Scaled Agile Framework (SAFe) environment.
+•	Facilitated workshops on backlog prioritization, estimation, and roadmap alignment across distributed Agile teams, improving transparency on goals, risks, and dependencies while ensuring SLA compliance.
+•	Driven product vision, MVP launches, platform scaling, and delivering customer-centric solutions with measurable impact on adoption and satisfaction.
+•	Certified Product Owner and Agile Practices with keen ability to understand and build complex systems.
+
+Tools:  JIRA, Confluence, Miro/Figma, Mural, Design Thinking (UI/UX) principles, Root cause analysis, Agile Facilitation tools, DevOps
+Education
+ 
+Master’s in Engineering (M.Eng)
+The University of Western Ontario, London, Canada							             		Oct/2017
+Professional Experience
+ 
+Agile Product Owner (Lead) 			Bosch Global Software Works, Bangalore, India		              Nov/2023 – Jul/2025
+•	Owned enterprise-scale simulation platform of Bosch HC products, driving product vision, roadmap, validation, and verification strategies to ensure reliable testing and high-quality releases within the Scaled Agile Framework (SAFe)
+•	Partnered with Agile facilitators to run backlog refinement, planning, and dependency mapping sessions.
+•	Secured executive alignment by articulating product vision, OKRs, and roadmaps to senior stakeholders, ensuring seamless integration between business priorities and engineering execution
+•	Launched an MVP simulation platform for next-gen heat pumps/remotes, cutting physical hardware dependency, reducing testing costs by 30% and accelerating release validation cycles by 25%.
+•	Boosted platform stability by 50% and expanded user adoption by 28% by converting systemic blockers into customer-centric product enhancements.
+•	Scaled platform to support 8 additional products by managing dependencies, aligning cross-functional teams, and mitigating delivery risks.
+•	Derived OKRs (Objective and Key Results) to accelerate 15% faster time-to-market releases by optimizing CI/CD pipelines.
+•	Increased customer satisfaction by 32% through customer journey mapping, addressing key pain points, and delivering high-value features
+•	Compiled and communicated product performance metrics to leadership, supporting informed investment and prioritization decisions
+ 
+Scrum Master (Lead) 			     Infosys Ltd, Bangalore, India 	   		             Jun/2018 – Nov/2023
+•	Led Agile delivery of Wealth Management applications with a 95% on-time completion rate in a complex matrix environment.
+•	Coached and mentored agile teams on backlog prioritization & estimation, improving sprint predictability by 25% and aligning to compliance priorities.
+•	Collaborated with Product Owners and business stakeholders to align backlog priorities with strategic business objective with a 100% SLA adherence, boosting delivery predictability.
+•	Improved team velocity by 30% through capacity planning, data-driven retrospectives, and proactive risk mitigation across multiple sprint cycles.
+•	Leveraged Agile metrics (velocity, cycle time, throughput) in JIRA to provide data-driven delivery insights to senior stakeholders.
+•	Supported teams to remove blockers, followed up on improvements by strengthening performance test requirements & SLA-driven delivery, resulting 99.9% application uptime 
+•	Facilitated design thinking workshops yielding to improved performance deliverables on a critical A-rated, large-scale Data Warehouse application, driving collaboration and sustainable delivery practices resulting in
+•	Reduced file parser job processing from 9.5 hrs → 1 hr for 3,000+ feeds (~3TB).
+•	Improved file check-in/upload time by 4 hrs for 100K+ PDF files, accelerating reporting and ensuring system reliability.
+ 
+
+Engineering Analyst				Infosys Ltd, Bangalore, India                     		             Feb/2016 - Aug/2016                           
+•	Facilitated Agile ceremonies (backlog refinement, sprint planning, daily stand-ups, retrospectives) and partnered with Business Analysts to generate and prioritize user stories aligned to defined business outcomes.
+•	Defined user stories through conversations with Business Analysts (clients) to drive new feature development, facilitate functional testing, and enable deployment to the production environment for both the Development and Quality Assurance (QA) teams
+
+
+Academic experience
+ 
+Research Associate 				Western University, London, Ontario 			            Sept/2016 - Feb/2018
+•	Participated in design and testing of invasive biomedical devices, focusing on prototyping and biocompatibility compliance
+•	Published on The Evaluation of a Novel Three-Dimensional Printed Expandable Pedicle Screw Sleeve Insert
+Previous experience
+ 
+
+Engineering Analyst			     Perkins Engines, Peterborough, United Kingdom	                              Feb/2015 - Feb/2016
+•	(Contracted via Infosys Limited) Led a development team to build a cloud-based system integrating engine calibration data into Hadoop (PaaS), enabling real-time retrieval via REST APIs for service technicians.
+ 
+Senior Engineer, 				Infosys Ltd, Bangalore, India 			               Jan/2013 - Jan/2015
+•	Streamlined backlog management and defect tracking in JIRA for multi-currency payment systems, delivering a high-performance platform that processed 150K+ daily transactions across USD and CAD for leading banks.
+ 
+Engineer, 					Infosys Ltd, Mysore, India  		                                              Jun/2011 - Dec/2012
+•	Automated simulation tool workflows with Python for a European energy client, saving 2 FTEs per project, while supporting requirements gathering, delivery estimation.
+•	Certified Infosys Foundation training in financial services and core programing technologies.
+
+
+
+
+
+

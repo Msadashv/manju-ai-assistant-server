@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pypdf==6.7.5
+python-docx==1.2.0
+requests==2.32.5
+beautifulsoup4
