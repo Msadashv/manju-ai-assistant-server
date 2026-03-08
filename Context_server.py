@@ -53,6 +53,16 @@ def home():
     return {"message": "Manju's AI assistant is running"}
 
 # =============================
+# Health check on render ENDPOINT
+# =============================
+@app.get("/health")
+def health():
+    return {
+        "status": "ok",
+        "service": "manju-ai-assistant",
+        "version": "1.0"
+    }
+# =============================
 # AI QUESTION ENDPOINT
 # =============================
 
