@@ -10,7 +10,7 @@ import os
 API_KEY = os.getenv("GEMINI_API_KEY")  # safer than hardcoding
 MODEL_NAME = "gemini-flash-lite-latest"
 
-PROFILE_PATH = r"Data_Models\Manju\Resume.txt"
+PROFILE_PATH = r"Data_Models/Manju/Resume.txt"
 
 # =============================
 # LOAD JOHN CONTEXT
