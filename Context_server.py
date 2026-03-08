@@ -55,6 +55,7 @@ def home():
 # =============================
 # Health check on render ENDPOINT
 # =============================
+
 @app.get("/health")
 def health():
     return {
@@ -62,6 +63,7 @@ def health():
         "service": "manju-ai-assistant",
         "version": "1.0"
     }
+
 # =============================
 # AI QUESTION ENDPOINT
 # =============================
